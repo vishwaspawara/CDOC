@@ -3,7 +3,7 @@
 Would you like to use different versions of a software — say Python — like `py2.7`, `py3.10`, and `py3.12` on the same device?
 
 I created a `chroot` jail inside a `Debian netinst` image running on `QEMU`.
-The entire process is logged in `log_pydeb.md`.
+The entire process is logged in `worklog.md`.
 
 ---
 
